@@ -1,6 +1,6 @@
 alert("Hello, this script was edited by liam aka Sxri. Please expect future updates to the script and maybe UI itself. Thank you and enjoy!")
 
-const baseUrl = 'https://raw.githubusercontent.com/Sxri/SnakeDarkmode/main/';
+const baseUrl = 'https://raw.githubusercontent.com/skagenmacka/snake/main/';
 
 /* Helper functions */
 function get(url, cb) {
